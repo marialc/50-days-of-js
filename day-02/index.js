@@ -3,6 +3,6 @@ const product = {
   name: "Hoodie",
   price: 19.99 ,
   availability: true,
-};
+}
 
-export { product };
+export { product }
